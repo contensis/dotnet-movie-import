@@ -1,12 +1,11 @@
 # .NET Movie Import
 An example import project demonstrating the use of the .NET Management API
 
-## Instruction
+## Instructions
 
-The quickstart tutorial covering this example import can be found at [https://developer.zengenti.com/contensis/api/management/dotnet/getting-started.html](https://developer.zengenti.com/contensis/api/management/dotnet/getting-started.html)
+A quickstart tutorial covering this example import can be found at [https://developer.zengenti.com/contensis/api/management/dotnet/getting-started.html](https://developer.zengenti.com/contensis/api/management/dotnet/getting-started.html)
 
-Make a local copy of this repository using the git clone command
-
+A local copy of this repository can be made using the git clone command:
 ```
 git clone https://github.com/contensis/dotnet-movie-import.git
 ```
